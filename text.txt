@@ -1,7 +1,4 @@
 SNO.-NAME-Employee-ID
---
-
-
 =======
 2 Dikshita Mahajan APS-31153
 3 - Devesh Pratap Singh - APS-31187
@@ -28,6 +25,3 @@ SNO.-NAME-Employee-ID
 45 - Rani Maheshwari - APS-31147
 46 - Prakhar Singh  - APS-31172
 47-Mayank Gupta-APS-31156
-
-
->>>>>>> c3461044b451090335d14a489f8abd91dab657b9
