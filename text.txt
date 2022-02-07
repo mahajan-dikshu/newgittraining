@@ -6,6 +6,7 @@ SNO.-NAME-Employee-ID
 2 Dikshita Mahajan APS-31153
 3 - Devesh Pratap Singh - APS-31187
 5    Neha  APS-31143
+6 - Ekshu Mahajan - APS-31189
 7 Bhupinder APS-31152
 11 -Abhishek -APS31195
 12 - Dikshant Mali - APS-31149
